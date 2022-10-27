@@ -3,7 +3,7 @@ https://youtu.be/CC43xcdLC3I
 
 Two public link to the Concept Map (anyone on the internet can view without login):
 PDF: 
-https://github.com/annajiat/CSE123/blob/main/submission3/Concept%20Map.pdf
+https://github.com/raimaml2001/cse424/blob/main/submission3/Concept%20Map.pdf
 Native/original format: 
 https://gitmind.com/app/doc/iadlka4lrr
 
@@ -15,10 +15,11 @@ Jurafsky
 Pearson
 
 Link to the book:
-https://amazon.com/...
+https://web.stanford.edu/~jurafsky/slp3/
+
 
 Link to the book chapter:
-https://web.stanford.edu/~jurafsky/slp3/
+https://drive.google.com/drive/u/0/folders/1WEtc3isuXgtRWgImP16sfqc-HK1EZC9x
 
 Group Number:
 2
