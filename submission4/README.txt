@@ -1,17 +1,18 @@
 Unlisted youtube video:
-# to be given
+https://www.youtube.com/watch?v=MK-10dFlWyo
 
 Conference submitted paper / paper submission / login Link:
 # to be given
 
 Paper title:
-Bangla Sign Language Detection using Explainable AI
+Hybridized Approach Into Deep Neural Network for Bangla Sign Language Detection
 
-First Paper draft
-https://docs.google.com/document/d/16Gt_DEsF22EIJZNq1U3IJA4LwdVEabdtF3BW-QGrhEM/edit
+Paper PDF link:
+
+
 
 Paper submission date (to workshop/conference):
- December 20, 2022
+December 20, 2022
 
 Paper submission ID: (received) from conference/workshop
 # to be given
