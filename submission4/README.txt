@@ -8,7 +8,7 @@ Paper title:
 Hybridized Approach Into Deep Neural Network for Bangla Sign Language Detection
 
 Paper PDF link:
-
+https://github.com/raimaml2001/cse424/blob/main/submission4/Hybridized%20Approach%20into%20Deep%20Neural%20Network%20for%20Bangla%20Sign%20Language%20Detection.pdf
 
 
 Paper submission date (to workshop/conference):
